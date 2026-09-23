@@ -2,5 +2,7 @@
   "name": "ScaleSuite - World's Most Powerful Business Growth Bundle",
   "description": "Unlock unlimited access to 6 essential business applications (Mailchimp, Hostinger, Fomo, Wati, UptimeRobot, Bitly) for just $40/mo instead of $650/mo with no feature restrictions.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
